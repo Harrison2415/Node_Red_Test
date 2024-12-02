@@ -1,0 +1,2 @@
+Abrir CMD executar Nod: node-red
+Agora veja o server IP e faça o acesso.
